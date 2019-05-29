@@ -1,0 +1,6 @@
+/home/justin/Documents/KTU/AntrasKursas/Pavasaris/Algoritmu_sudarymas_ir_analize/Lab_2/Task_1/Task_1/Task_1/bin/Debug/Task_1.exe
+/home/justin/Documents/KTU/AntrasKursas/Pavasaris/Algoritmu_sudarymas_ir_analize/Lab_2/Task_1/Task_1/Task_1/bin/Debug/Task_1.pdb
+/home/justin/Documents/KTU/AntrasKursas/Pavasaris/Algoritmu_sudarymas_ir_analize/Lab_2/Task_1/Task_1/Task_1/obj/x86/Debug/Task_1.csprojAssemblyReference.cache
+/home/justin/Documents/KTU/AntrasKursas/Pavasaris/Algoritmu_sudarymas_ir_analize/Lab_2/Task_1/Task_1/Task_1/obj/x86/Debug/Task_1.csproj.CoreCompileInputs.cache
+/home/justin/Documents/KTU/AntrasKursas/Pavasaris/Algoritmu_sudarymas_ir_analize/Lab_2/Task_1/Task_1/Task_1/obj/x86/Debug/Task_1.exe
+/home/justin/Documents/KTU/AntrasKursas/Pavasaris/Algoritmu_sudarymas_ir_analize/Lab_2/Task_1/Task_1/Task_1/obj/x86/Debug/Task_1.pdb

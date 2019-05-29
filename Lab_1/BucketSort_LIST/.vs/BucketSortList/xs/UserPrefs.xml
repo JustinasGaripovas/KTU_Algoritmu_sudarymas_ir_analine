@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6E8951EF-3BAD-419A-96C5-5E21A4309596}|Default">
+  <MonoDevelop.Ide.ItemProperties.BucketSortList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BucketSortList/Program.cs">
+    <Files>
+      <File FileName="BucketSortList/Program.cs" Line="21" Column="35" />
+      <File FileName="BucketSortList/MyFileList.cs" Line="137" Column="11" />
+      <File FileName="BucketSortList/BucketSortMyFileList.cs" Line="20" Column="51" />
+      <File FileName="BucketSortList/SortableObject.cs" Line="32" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
